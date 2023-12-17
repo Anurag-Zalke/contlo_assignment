@@ -40,3 +40,9 @@ In this code, I implemented a variant of the GPT-2 model for text generation usi
    - The generated text is printed to the console, allowing the user to inspect the model's creativity and language structure.
 
 Overall, the code encompasses the complete lifecycle of a text generation model, from data loading and model architecture definition to training, evaluation, and text generation.
+
+
+Output:
+![image](https://github.com/Anurag-Zalke/contlo_assignment/assets/81683716/643c5e9b-8333-4eb3-aa52-3192e8c910c0)
+![image](https://github.com/Anurag-Zalke/contlo_assignment/assets/81683716/ac93d972-0b9a-4ff1-b5ff-0977bd04cd35)
+
